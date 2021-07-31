@@ -4,5 +4,5 @@ A fast file downloader which uses multi threads to download a file and also we c
 
 # GUI 
 ![gui 1 ](gui.png)
-![gui 2 ](Output-SS/ss-1.png)
-![gui 3 ](Output-SS/ss-2.png)
+![gui 2 ](output_ss-1.png)
+![gui 3 ](output_ss-2.png)
